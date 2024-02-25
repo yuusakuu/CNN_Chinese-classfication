@@ -15,8 +15,6 @@ Precision : 0.959
 Recall : 0.963
 F1 Score : 0.955
 
-![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/7a127ed9-335e-425b-adc6-a6e59015e822)
-
 ![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/c83675e6-1ef1-476e-9e1d-37bfec7c8e6e)
 ![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/73057173-0b52-40e8-b51f-bbc95c07686a)
 ![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/262eb47b-7ef7-420b-811b-6e4d2d490e0f)
