@@ -3,8 +3,7 @@
 ## Model developing using CNN model
 
 Train Dataset : 1817 Class / 203,125개 
-
-![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/f79db30f-2afa-4807-a6d6-bbfd08f1233d)
+Test Dataset : 1817 Class / 8,422개 
 
 ![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/f6bb5fb0-9b24-4d03-af54-10f5a3428ac6)
 ![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/327d94b6-3f78-4d20-8877-323409cd5b11)
