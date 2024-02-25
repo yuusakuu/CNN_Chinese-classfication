@@ -2,10 +2,21 @@
 
 ## Model developing using CNN model
 
-- font2image
+![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/f6bb5fb0-9b24-4d03-af54-10f5a3428ac6)
+![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/327d94b6-3f78-4d20-8877-323409cd5b11)
 
-  .py files make Chinese letter images from font files in local directory 
+Train (epoch 25)
+Accuracy : 0.989
+Val_accuracy : 0.897
 
-- mouse2image
+Test (8,422 ea)
+Accuracy : 0.947
+Precision : 0.959
+Recall : 0.963
+F1 Score : 0.955
 
-  .py files for writing Chinese letter and saving the images from the writing
+![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/7a127ed9-335e-425b-adc6-a6e59015e822)
+
+![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/c83675e6-1ef1-476e-9e1d-37bfec7c8e6e)
+![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/73057173-0b52-40e8-b51f-bbc95c07686a)
+![image](https://github.com/yuusakuu/CNN_Chinese-classification/assets/126541520/262eb47b-7ef7-420b-811b-6e4d2d490e0f)
